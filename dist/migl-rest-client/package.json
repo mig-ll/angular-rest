@@ -1,0 +1,47 @@
+{
+  "name": "migl-rest-client",
+  "version": "0.0.2",
+  "description": "Rest client angular",
+  "keywords": [
+    "api",
+    "angular"
+  ],
+  "homepage": "https://github.com/mig-ll/angular-rest",
+  "bugs": {
+    "url": "https://github.com/mig-ll/angular-rest/issues",
+    "email": "vsantos.mv@gmail.com"
+  },
+  "license": "UNLICENSED",
+  "author": {
+    "name": "Miguel Vargas",
+    "email": "vsantos.mv@gmail.com",
+    "url": "https://github.com/mig-ll"
+  },
+  "peerDependencies": {
+    "@angular/common": "^13.0.0",
+    "@angular/core": "^13.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "module": "fesm2015/migl-rest-client.mjs",
+  "es2020": "fesm2020/migl-rest-client.mjs",
+  "esm2020": "esm2020/migl-rest-client.mjs",
+  "fesm2020": "fesm2020/migl-rest-client.mjs",
+  "fesm2015": "fesm2015/migl-rest-client.mjs",
+  "typings": "migl-rest-client.d.ts",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./migl-rest-client.d.ts",
+      "esm2020": "./esm2020/migl-rest-client.mjs",
+      "es2020": "./fesm2020/migl-rest-client.mjs",
+      "es2015": "./fesm2015/migl-rest-client.mjs",
+      "node": "./fesm2015/migl-rest-client.mjs",
+      "default": "./fesm2020/migl-rest-client.mjs"
+    }
+  },
+  "sideEffects": false
+}

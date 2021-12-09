@@ -1,0 +1,24 @@
+{
+  "name": "migl-rest-client",
+  "version": "0.0.2",
+  "description": "Rest client angular",
+  "keywords": ["api", "angular"],
+  "homepage": "https://github.com/mig-ll/angular-rest",
+  "bugs": {
+    "url" : "https://github.com/mig-ll/angular-rest/issues",
+    "email" : "vsantos.mv@gmail.com"
+  },
+  "license": "UNLICENSED",
+  "author": {
+    "name" : "Miguel Vargas",
+    "email" : "vsantos.mv@gmail.com",
+    "url" : "https://github.com/mig-ll"
+  },
+  "peerDependencies": {
+    "@angular/common": "^13.0.0",
+    "@angular/core": "^13.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}

@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of migl-rest-client
+ */
+export * from './lib/migl-rest-client.config';
+export * from './lib/migl-rest-client.service';
+export * from './lib/migl-rest-client.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL21pZ2wtcmVzdC1jbGllbnQvc3JjL3B1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFFSCxjQUFjLCtCQUErQixDQUFDO0FBQzlDLGNBQWMsZ0NBQWdDLENBQUM7QUFDL0MsY0FBYywrQkFBK0IsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgbWlnbC1yZXN0LWNsaWVudFxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL21pZ2wtcmVzdC1jbGllbnQuY29uZmlnJztcbmV4cG9ydCAqIGZyb20gJy4vbGliL21pZ2wtcmVzdC1jbGllbnQuc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9taWdsLXJlc3QtY2xpZW50Lm1vZHVsZSc7XG4iXX0=
